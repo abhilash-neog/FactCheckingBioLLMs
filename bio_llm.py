@@ -29,9 +29,9 @@ base_path = '/home/amartya/medhalt/medhalt/predictions'
 folder_name = args.model
 folder_path = os.path.join(base_path,folder_name)
 
-if not os.path.exists(folder_path):
-    # Create the directory since it does not exist
-    os.makedirs(folder_path)
+# if not os.path.exists(folder_path):
+#     # Create the directory since it does not exist
+#     os.makedirs(folder_path)
 
 # Setting the names and paths of csv and json file
 csv_name = f"{args.model}_{args.data}.csv"

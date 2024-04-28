@@ -1,9 +1,9 @@
 #!/bin/bash
-#SBATCH -J asclepius_Nota
+#SBATCH -J asc_Nota
 #SBATCH --account=ml4science
 #SBATCH --partition=a100_normal_q 
 #SBATCH --nodes=1 --ntasks-per-node=1 --cpus-per-task=1 
-#SBATCH --time=0-10:00:00  
+#SBATCH --time=0-24:00:00  
 #SBATCH --gres=gpu:1
 #SBATCH -o ./SLURM/slurm-%j.out
 
