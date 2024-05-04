@@ -12,8 +12,8 @@ Datasets are hosted in Huggingface's [dataset](https://huggingface.co/datasets/M
 ```python
 python bio_llm.py <test_name> <batch> <model_name>
 ```
-here test_name can be FCT, Nota or fake depending on which test we want to run
-here model_name can be asclepius, alpacare, biomistral or pmc_llama depending on which model we want to run the inference for
+- Here test_name can be FCT, Nota or fake depending on which test we want to run
+- Here model_name can be asclepius, alpacare, biomistral or pmc_llama depending on which model we want to run the inference for
 
 ## Evaluation Instructions
 
