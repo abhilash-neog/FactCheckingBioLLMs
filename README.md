@@ -19,3 +19,11 @@ here model_name can be asclepius, alpacare, biomistral or pmc_llama depending on
 
 Find the evaluation notebooks here: https://github.com/abhilash-neog/FactCheckingBioLLMs/tree/Evaluation_Codes
 
+## Acknowledgements
+
+We sincerely thank the authors of following open-source projects:
+
+- [Med-Halt] (https://github.com/medhalt/medhalt)
+- [datasets](https://github.com/huggingface/datasets)
+- [transformers](https://github.com/huggingface/transformers)
+
