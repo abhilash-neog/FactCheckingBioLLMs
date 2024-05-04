@@ -23,7 +23,7 @@ Find the evaluation notebooks here: https://github.com/abhilash-neog/FactCheckin
 
 We sincerely thank the authors of following open-source projects:
 
-- [Med-Halt] (https://github.com/medhalt/medhalt)
+- [Med-Halt](https://github.com/medhalt/medhalt)
 - [datasets](https://github.com/huggingface/datasets)
 - [transformers](https://github.com/huggingface/transformers)
 
