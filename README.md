@@ -14,6 +14,7 @@ python bio_llm.py <test_name> <batch> <model_name>
 ```
 - Here test_name can be FCT, Nota or fake depending on which test we want to run
 - Here model_name can be asclepius, alpacare, biomistral or pmc_llama depending on which model we want to run the inference for
+- batch is the batch_size. We use different batch sizes like 4,8 and 12.
 
 ## Evaluation Instructions
 
