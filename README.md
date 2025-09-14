@@ -3,7 +3,7 @@
 This research study focuses on the challenges posed by hallucinations in medical large language models (LLMs), particularly in the context of the medical domain. We evaluate the reasoning abilities of popular open-source medical LLMs on a new benchmark and dataset, Med-HALT (Medical Domain Hallucination Test), designed specifically to evaluate hallucinations in medical domain. 
 This benchmark provides a diverse multinational dataset derived from medical examinations across various countries and includes multiple innovative testing modalities. 
 
-You can read more about our work here: [Evaluating Model Reasoning and Hallucinations in Medical LLMs Report](Trustworthiness_of_Medical_LLMs_Project_Report.pdf)
+You can read more about our work here: [Evaluating Model Reasoning and Hallucinations in Medical LLMs Report](Trustworthiness_of_Medical_LLMs_Project_Report_PDF.pdf)
 
 ## Dataset
 
